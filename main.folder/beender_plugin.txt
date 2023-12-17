@@ -1,0 +1,15 @@
+pystyle
+threading
+time
+ctypes
+os
+sys
+json
+getpass
+requests
+bs4
+BeautifulSoup
+pyautogui
+urllib
+nuitka
+getpass
